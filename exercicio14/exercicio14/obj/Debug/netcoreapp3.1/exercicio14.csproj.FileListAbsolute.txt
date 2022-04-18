@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.exe
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.deps.json
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.runtimeconfig.json
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.runtimeconfig.dev.json
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.dll
+C:\Users\Felip\source\repos\exercicio14\exercicio14\bin\Debug\netcoreapp3.1\exercicio14.pdb
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.csproj.AssemblyReference.cache
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.AssemblyInfo.cs
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.dll
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.pdb
+C:\Users\Felip\source\repos\exercicio14\exercicio14\obj\Debug\netcoreapp3.1\exercicio14.genruntimeconfig.cache

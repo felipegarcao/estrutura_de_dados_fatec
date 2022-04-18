@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTBsr5XPRKd444TiQ8VinaQ+p7lSE99Bg3Qnu5FT0TwcwmZ/Hypit0Fo0XzRf2WGKLa95lYMKfvGpcJWo6niPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felip\\source\\repos\\exercicio14\\exercicio14\\exercicio14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
